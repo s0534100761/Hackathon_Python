@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviroment>
+    <ExpectedResult>5 ILS = 125 USD</ExpectedResult>
+    <reportDirectory>reports</reportDirectory>
+    <reportFormat>xml</reportFormat>
+    <testName>Untitled</testName>
+    <uuid>ce0517157c63b41702</uuid>
+    <appPackage>com.financial.calculator</appPackage>
+    <appActivity>.FinancialCalculators</appActivity>
+    <platformName>android</platformName>
+</Enviroment>

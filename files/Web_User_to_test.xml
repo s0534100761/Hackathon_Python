@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviroment>
+    <UserName>Katharina_Bernier</UserName>
+    <Password>s3cret</Password>
+    <Balance>$1,591.37</Balance>
+    <NewUserFirstName>TestUser</NewUserFirstName>
+    <NewUserLastName>TestUserLN</NewUserLastName>
+    <NewUserName>Test_User16</NewUserName>
+    <NewUserPassword>TestPW</NewUserPassword>
+    <NewUserBankAccount>TestBankAccount</NewUserBankAccount>
+    <NewUserRoutingNumber>123123123</NewUserRoutingNumber>
+    <NewUserAccountNumber>123456789</NewUserAccountNumber>
+    <Amount>30</Amount>
+    <Note>Take it</Note>
+    <ExpectedAmount>-$30.00</ExpectedAmount>
+    <AppliToolsAPIKey>698pzET53M6iFQxxjEJBvKECDkmUSwe0j2s38qny7wFs110</AppliToolsAPIKey>
+</Enviroment>

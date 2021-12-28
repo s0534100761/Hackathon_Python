@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+	<Number_Get_Api>1</Number_Get_Api>
+	<Value_Get_Api>posts/</Value_Get_Api>
+	<User_Id_Post>2</User_Id_Post>
+	<Id_Post>109</Id_Post>
+	<Title_Post>test post</Title_Post>
+	<Body_Post>This is a test in the Hackathon</Body_Post>
+	<Id_Delete>17</Id_Delete>
+	<Url_Filter>posts?id=</Url_Filter>
+    <ApiURL>http://localhost:3000/</ApiURL>
+    <Header>'Content-type': 'application/json'</Header>
+</Environment>
